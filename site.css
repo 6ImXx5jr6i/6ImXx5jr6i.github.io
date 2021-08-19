@@ -10,8 +10,8 @@
 }
 
 .column {
-    flex: 33%;
-    max-width: 33%;
+    flex: 23%;
+    max-width: 23%;
     padding: 0 4px;
 }
 
